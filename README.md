@@ -14,5 +14,6 @@ Quelques excercices pour appréhender le langage Javascript
 11. ex11.js : faites la somme des éléments du tableau  
 12. ex12.js : filtrer pour n'afficher que les nombres pairs du tableau  
 13. ex13.js : inversez les éléments du tableau  
-14. ex14.js : multipliez par 2 les éléments du tableaux pairs
-15. 
+14. ex14.js : multipliez par 2 les éléments pairs du tableaux 
+15. ext15.js : Supprimer le dernier élement du tableau et ajouter un nouvel élément
+16. ex16.js : créez un tableau [1, 3, 2, 10, 3], et rangez les éléments dans l'ordre
