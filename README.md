@@ -25,6 +25,7 @@ Quelques excercices pour appréhender le langage Javascript
 22. Définissez une chaine de caractère 'Salut CESI'. Remplacez le mot CESI par un élément que vous passez en paramètre et l'afficher
 23. Créez une liste de 10 utilisateurs contenant age et nom. Afficher les utilisateurs qui ont plus de 18 ans et un e dans le prénom
 24. Créez une liste de 10 utilisateurs contenant age et nom. Afficher les utilisateurs qui ont plus de 18 ans et un *e* et un *a" dans le nom
-25. //TODO
-30. Faire un appel HTTP sur l'url postman-echo.com/status/200. Pour ça, on utilise un composant fournit par node: `const http = require("http")`
-31. Le refaire en utilisant la librairie `node-fetch`. Doc ici : (https://www.npmjs.com/package/node-fetch)[https://www.npmjs.com/package/node-fetch]
+25. Ecrire une fonction qui renvoi true si tous les éléments d'une chaine de caractère passée en paramètre sont identique.
+26. Ecrire une fonction qui renvoi le nombre de caractères différents d'une chaine de caractère passée en paramètre sont identique.
+40. Faire un appel HTTP sur l'url postman-echo.com/status/200. Pour ça, on utilise un composant fournit par node: `const http = require("http")`
+41. Le refaire en utilisant la librairie `node-fetch`. Doc ici : (https://www.npmjs.com/package/node-fetch)[https://www.npmjs.com/package/node-fetch]
