@@ -22,5 +22,9 @@ Quelques excercices pour appréhender le langage Javascript
 19. Tirage au sort dans une liste d'utilisateurs (mixer 17 & 18)
 20. Développez un programme qui affiche toutes les secondes pendant une minute
 21. Développez un programme qui attend 5 secondes avant d'afficher un résultat
-22. Définissez une chaine de caractère 'Salut CESI'. Remplacez le mot CESI par votre prénom et affiché le
-23. 
+22. Définissez une chaine de caractère 'Salut CESI'. Remplacez le mot CESI par un élément que vous passez en paramètre et l'afficher
+23. Créez une liste de 10 utilisateurs contenant age et nom. Afficher les utilisateurs qui ont plus de 18 ans et un e dans le prénom
+24. Créez une liste de 10 utilisateurs contenant age et nom. Afficher les utilisateurs qui ont plus de 18 ans et un *e* et un *a" dans le nom
+25. //TODO
+30. Faire un appel HTTP sur l'url postman-echo.com/status/200. Pour ça, on utilise un composant fournit par node: `const http = require("http")`
+31. Le refaire en utilisant la librairie `node-fetch`. Doc ici : (https://www.npmjs.com/package/node-fetch)[https://www.npmjs.com/package/node-fetch]
