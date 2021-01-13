@@ -1,5 +1,6 @@
 # Javascript
-Quelques excercices pour appréhender le langage Javascript
+Quelques excercices pour appréhender le langage Javascript. Les exercices ne sont pas rangé par ordre de difficulté.   
+
 
 1. ex1.js : logger les chiffres jusqu'à 10
 2. ex2.js : Logger les chiffres jusqu'à une valeur passée en paramètre
@@ -27,5 +28,15 @@ Quelques excercices pour appréhender le langage Javascript
 24. Créez une liste de 10 utilisateurs contenant age et nom. Afficher les utilisateurs qui ont plus de 18 ans et un *e* et un *a" dans le nom
 25. Ecrire une fonction qui renvoi true si tous les éléments d'une chaine de caractère passée en paramètre sont identique.
 26. Ecrire une fonction qui renvoi le nombre de caractères différents d'une chaine de caractère passée en paramètre sont identique.
+27. Créer un programme qui prend en paramètre 2 chaines de caractères et qui vous donne la chaine la plus longue.
+28. La distance de Hamming est le nombre de caractères qui diffèrent entre deux chaînes. Créer un programme qui prend en paramètre 2 chaines de caractères et qui calcule la distance de hamming.    
+exemple:
+* distanceHamming("abcdde", "abcdbe") ➞ 1
+* distanceHamming("attention", "extention") ➞ 2
+29. Créer une fonction qui prend en paramètre un nombre de mètres et affiche ce chiffre en kilomètres et en miles.
+30. Créer un programme prend en paramètre une phrase (passer un paramètre avec des quotes, exemples: `node ex.js "salut ca va"`) et met l'ensemble des premières lettre en majuscule.
+* _salut ca va_ --> _Salut Ca Va_    
+31. Créer un programme qui prend en paramètre un nombre et calcul son prix avec la TVA (tva à prix + 20%)
+32. Créer un programme qui prend une chaine de caractère en entrée et y supprime tous les *e*.
 40. Faire un appel HTTP sur l'url postman-echo.com/status/200. Pour ça, on utilise un composant fournit par node: `const http = require("http")`
 41. Le refaire en utilisant la librairie `node-fetch`. Doc ici : (https://www.npmjs.com/package/node-fetch)[https://www.npmjs.com/package/node-fetch]
