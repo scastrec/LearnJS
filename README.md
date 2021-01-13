@@ -4,10 +4,10 @@ Quelques excercices pour appréhender le langage Javascript
 1. ex1.js : logger les chiffres jusqu'à 10
 2. ex2.js : Logger les chiffres jusqu'à une valeur passée en paramètre
 3. ex3.js : Afficher que les nombres pairs
-4. ex4.js : Afficher nombres pairs et imapirs
-5. ex5.js : Utilisation de fonctions
-6. ex6.js : Refactoring de fonction
-7. ex7.js : découverte du switch
+4. ex4.js : Afficher nombres pairs puis impairs
+5. ex5.js : Utilisation de fonctions pour l'exercice 4.
+6. ex6.js : Refactoring de fonction. Une seule fonction autorisée.
+7. ex7.js : Votre programme prend uen paramètre une chaine de caractère. Si World, afficher Hello World. Si _stephane_, affichez 'hey stephane'. Sinon, afficher 'default value' 
 8. ex8.js : Le type de variables
 9. ex9.js : une calculatrice 
 10. ex10.js : découverte des Arrays - créer un tableau contenant 1 2 3 4 et affichez le
@@ -21,3 +21,6 @@ Quelques excercices pour appréhender le langage Javascript
 18. Lancé de dé: Faites un dé en javascript (l'utilisateur doit pouvoir choisir le nombre de faces)
 19. Tirage au sort dans une liste d'utilisateurs (mixer 17 & 18)
 20. Développez un programme qui affiche toutes les secondes pendant une minute
+21. Développez un programme qui attend 5 secondes avant d'afficher un résultat
+22. Définissez une chaine de caractère 'Salut CESI'. Remplacez le mot CESI par votre prénom et affiché le
+23. 
