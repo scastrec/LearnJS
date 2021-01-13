@@ -38,5 +38,11 @@ exemple:
 * _salut ca va_ --> _Salut Ca Va_    
 31. Créer un programme qui prend en paramètre un nombre et calcul son prix avec la TVA (tva à prix + 20%)
 32. Créer un programme qui prend une chaine de caractère en entrée et y supprime tous les *e*.
+33. Créer un programme qui calcul les cotés d'un triangle rectangle. 2 paramètres seront à fournir de la forme suivante:
+* h=1 si vous souhaitez un hypothénuse de longeur 1
+* c=1 si vous souhaitez un coté de 1   
+votre programme s'appelera donc de la façon suivante:
+`node pythagore.js c=1 c=2`
+Indice : voir l'objet javascript `Math`
 40. Faire un appel HTTP sur l'url postman-echo.com/status/200. Pour ça, on utilise un composant fournit par node: `const http = require("http")`
 41. Le refaire en utilisant la librairie `node-fetch`. Doc ici : (https://www.npmjs.com/package/node-fetch)[https://www.npmjs.com/package/node-fetch]
