@@ -17,3 +17,7 @@ Quelques excercices pour appréhender le langage Javascript
 14. ex14.js : multipliez par 2 les éléments pairs du tableaux 
 15. ext15.js : Supprimer le dernier élement du tableau et ajouter un nouvel élément
 16. ex16.js : créez un tableau [1, 3, 2, 10, 3], et rangez les éléments dans l'ordre
+17. Créez un tableau d'utilisateur contenant 5 utilisateurs. Chaque utilisateur contient un nom et un age. Affichez les utilisateurs de moins de 18 ans git status
+18. Lancé de dé: Faites un dé en javascript (l'utilisateur doit pouvoir choisir le nombre de faces)
+19. Tirage au sort dans une liste d'utilisateurs (mixer 17 & 18)
+20. Développez un programme qui affiche toutes les secondes pendant une minute
